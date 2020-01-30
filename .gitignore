@@ -1,12 +1,3 @@
-*.odt
-*.ods
-*.ott
-*#
-.LABs/
-.TMP/
-.TRASH/
 *.tmp
-*.zip
-*.tar*/
 *.py[roc]
-
+.TMP/
